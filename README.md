@@ -1,3 +1,5 @@
+[![官网下载](https://img.shields.io/badge/📖-立即下载电子书-FF6F61?style=for-the-badge)](https://www.infoq.cn/minibook/4cryFPs6rVbU02ALhpt8)
+
 # free-deepseek-ebook
 【🚀AI超级引擎DeepSeek技术白皮书重磅发布！】
 
